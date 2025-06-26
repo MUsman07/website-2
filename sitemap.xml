@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://MUsman07.github.io/website-2/source-2.html</loc>
+    <lastmod>2025-06-26T03:13:46.056Z</lastmod>
+  </url>
+  <url>
     <loc>https://MUsman07.github.io/website-2/index.html</loc>
     <lastmod>2025-06-26T02:50:01.151Z</lastmod>
   </url>
   <url>
     <loc>https://MUsman07.github.io/website-2/about.html</loc>
     <lastmod>2025-06-26T03:01:07.759Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MUsman07.github.io/website-2/source-1.html</loc>
+    <lastmod>2025-06-26T03:13:20.558Z</lastmod>
   </url>
 </urlset>
